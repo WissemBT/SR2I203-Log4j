@@ -1,0 +1,7 @@
+colorama
+argparse
+subprocess
+threading
+pathlib
+http
+requests 
